@@ -27,6 +27,10 @@ dimwishlist:item=1619016919
 dimwishlist:item=1177293327
 dimwishlist:item=4157959958
 
-// Twilight Oath
+// Twilight Oath Harm
 //notes:If you got this roll I hate you - Harm
 dimwishlist:item=3297863558&perks=202670084,3142289711,47981717,957782887,2697220197
+
+// Annual Skate Avia
+//notes:I like time payload - Avia
+dimwishlist:item=6857689&perks=3142289711,3436462433,1954620775,2697220197
