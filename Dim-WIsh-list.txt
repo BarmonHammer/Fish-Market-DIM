@@ -1,10 +1,21 @@
 title:FishyMarkets Cool List
 description:glup glup
 // Finite Impactor Harm Roll
-//notes:I think that this handcannon is very good because it hits zed in the head.
+//notes:I think that this handcannon is very good because it hits zed in the head. - Harm
 dimwishlist:item=3813153080&perks=1926090094,1885400500,280464955,3511092054,2697220197
 
 // Sudden Death Harm
-//notes:Good rolls.
+//notes:Good rolls. - Harm
 dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,3511092054,2697220197
 dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054,2697220197
+
+
+// Eyasluna PvP Harm
+//notes:Eyasluna PvP twitter god roll ;-; - Harm
+dimwishlist:item=235827225&perks=1561002382,2846385770,588594999,2697220197
+dimwishlist:item=235827225&perks=1885400500,2846385770,588594999,2697220197
+dimwishlist:item=235827225&perks=1968497646,2846385770,588594999,2697220197
+
+// Eyasluna PvE Harm
+//notes:Funny headstone unrelenting!!!!! omg omg omg youtube moment - Harm
+dimwishlist:item=235827225&perks=3108830275,124408337
