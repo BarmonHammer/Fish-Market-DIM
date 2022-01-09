@@ -34,3 +34,7 @@ dimwishlist:item=3297863558&perks=202670084,3142289711,47981717,957782887,269722
 // Annual Skate Avia
 //notes:I like time payload - Avia
 dimwishlist:item=6857689&perks=3142289711,3436462433,1954620775,2697220197
+
+// Plug One.1 (ADEPT)
+//notes:Uh uh good gun smiley face :)
+dimwishlist:item=534775659&perks=1840239774,1687452232,2779035018,1427256713,758092021
