@@ -1,5 +1,5 @@
 title:FishyMarkets Cool List
 description:glup glup
-\\ Finite Impactor Harm Roll
-\\ notes: I think that this handcannon is very good because it hits zed in the head.
+// Finite Impactor Harm Roll
+//notes:I think that this handcannon is very good because it hits zed in the head.
 dimwishlist:item=3813153080&perks=1926090094,1885400500,280464955,3511092054,2697220197
