@@ -1,4 +1,4 @@
-title:FishyMarkets Cool List
+title:Fish List
 description:glup glup
 // Finite Impactor Harm Roll
 //notes:I think that this handcannon is very good because it hits zed in the head. - Harm
@@ -35,6 +35,14 @@ dimwishlist:item=3297863558&perks=202670084,3142289711,47981717,957782887,269722
 //notes:I like time payload - Avia
 dimwishlist:item=6857689&perks=3142289711,3436462433,1954620775,2697220197
 
-// Plug One.1 (ADEPT)
-//notes:Uh uh good gun smiley face :)
+// Plug One.1 (ADEPT) Avia
+//notes:Uh uh good gun smiley face :) - Avia
 dimwishlist:item=534775659&perks=1840239774,1687452232,2779035018,1427256713,758092021
+
+// Iota Draconis Trout
+//notes:stand near people otherwise it sucks - Avia
+dimwishlist:item=3044460004&perks=4090651448,2969185026,1570042021,2213355989
+
+//IKELOS_SMG_V1.0.2 Trout
+//notes:Harms a cunt - Trout
+dimwishlist:item=2222560548&perks=202670084,1140096971,4071163871,1546637391,2697220197
