@@ -19,3 +19,10 @@ dimwishlist:item=235827225&perks=1968497646,2846385770,588594999,2697220197
 // Eyasluna PvE Harm
 //notes:Funny headstone unrelenting!!!!! omg omg omg youtube moment - Harm
 dimwishlist:item=235827225&perks=3108830275,124408337
+
+
+// GOD ROLL
+//notes:This gun is soooo good i love this gun - frosty
+dimwishlist:item=1619016919
+dimwishlist:item=1177293327
+dimwishlist:item=4157959958
