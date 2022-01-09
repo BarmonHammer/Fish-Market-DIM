@@ -62,3 +62,6 @@ dimwishlist:item=599895591&perks=1840239774,791862061,4071163871,47981717,269722
 //notes:its an smg - Trout
 dimwishlist:item=766323545&perks=1354429876,1546637391
 
+//BXR-55 Battler
+//notes:here is my personal roll for the BXR-55 Battler - Dire
+dimwishlist:item=2708806099&perks=3250034553,3142289711,957782887,1015611457,2697220197
