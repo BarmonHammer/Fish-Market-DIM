@@ -69,3 +69,7 @@ dimwishlist:item=2708806099&perks=3250034553,3142289711,957782887,1015611457,269
 //Multimach
 //notes:long range boy
 dimwishlist:item=3717177717&perks=663495154,3142289711,591790007,2697220197
+
+//Frozen Orbit Pve God Roll - Avia
+//notes:about what, this roll? its alright its ok. you probably don't want this. - Avia
+dimwishlist:item=3473290087,3300816228,1546637391
