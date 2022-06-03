@@ -77,3 +77,7 @@ dimwishlist:item=3717177717&perks=2209280307,3177308360,2450788523,4152709778
 //Frozen Orbit Pve God Roll - Avia
 //notes:about what, this roll? its alright its ok. you probably don't want this. - Avia
 dimwishlist:item=3473290087,3300816228,1546637391
+
+//Jared sidearm
+//notes:Aj made me use sidearms in pve - the doinker
+dimwishlist:item=829330711&perks=1840239774,3230963543,2846385770,3523296417
