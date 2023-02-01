@@ -81,3 +81,14 @@ dimwishlist:item=3473290087,3300816228,1546637391
 //Jared sidearm
 //notes:Aj made me use sidearms in pve - the doinker
 dimwishlist:item=829330711&perks=1840239774,3230963543,2846385770,3523296417
+
+
+//Harm's midlife crisis
+//notes:sad 
+dimwishlist:item=2888266564&perks=588594999,3511092054
+
+//Wilderflight dps?
+//notes:idk
+dimwishlist:item=2306182339&perks=1478423395,3301904089,3300816228,4104185692
+
+
